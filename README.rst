@@ -119,7 +119,7 @@ For now gcarrier and I have packaged autojump for Arch Linux. It is available in
 
  pacman -S autojump
 
-I would be very interested by packages for other distros. If you think you can help me with the packaging, please contact me!
+I would be very interested by packages for other distros. If you think you can help me with the packaging, please contact me! Note that apart from bash(zsh) and python, autojump doesn't have any dependencies.
 
 Uninstallation
 ==============
